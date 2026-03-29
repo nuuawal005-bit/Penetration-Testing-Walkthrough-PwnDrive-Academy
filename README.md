@@ -1,7 +1,7 @@
 # Penetration Testing Walkthrough PwnDrive Academy
 
 ## Overview
-This report documents the process of assessing and exploiting vulnerabilities in the PwnDrive Academy target system. 
+This report details the PwnDrive Academy challenge, where the goal was to exploit vulnerabilities in order to gain unauthorized access and ultimately capture the flag
 ## Target Information
 
 | Attribute          | Details                 |
